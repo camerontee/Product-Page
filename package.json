@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "browser-sync": "^2.17.3",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^2.1.1",
+    "gulp-stylus": "^2.5.0",
+    "gulp-surge": "^0.1.0",
+    "gulp-watch": "^4.3.10",
+    "jeet": "^6.1.5",
+    "nib": "^1.1.2"
+  }
+}
